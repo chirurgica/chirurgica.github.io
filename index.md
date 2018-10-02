@@ -14,7 +14,8 @@
 
 <br>
 <br>
-<a href="CHIRURGIA GENERALE (AOU-PR">https://elly.medicina.unipr.it/2018/course/view.php?id=292</a>
+Accedi alle lezioni online [CHIRURGIA GENERALE (AOU-PR](https://elly.medicina.unipr.it/2018/course/view.php?id=292)
+
 
 
 
