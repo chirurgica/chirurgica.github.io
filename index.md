@@ -23,11 +23,6 @@
 <br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VKDvT8M26uU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<br>
-<br>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HR5hEfx-Hg0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
@@ -61,7 +56,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoxfVg4PEzw?list=PLVg7dsf20BR65fArIERFjJUhAI1FNL-JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br>
+<br>
 
 
 
